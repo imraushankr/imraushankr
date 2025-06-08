@@ -3,16 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisraushankumar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imraushankr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan.kumar.19u@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raushan-kumar.onrender.com/)
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Computer Science Engineering** student at Lovely Professional University with a strong foundation in modern web technologies. Currently working as an **Associate Developer Intern at Tech Mahindra**, where I'm contributing to responsive web development and gaining valuable industry experience.
+I'm a passionate **Full Stack Developer** and **Computer Science Engineering** student at Lovely Professional University with a strong foundation in modern web technologies.
 
-- 🔭 I'm currently working on **responsive web applications** at Tech Mahindra
+- 🔭 I'm currently working on **responsive web applications**
 - 🌱 I'm currently learning **advanced React patterns** and **cloud technologies**
 - 👯 I'm looking to collaborate on **open source projects** and **innovative web applications**
 - 💬 Ask me about **React.js, Node.js, MongoDB, and full-stack development**
-- 📫 How to reach me: **raushan911721@gmail.com**
+- 📫 How to reach me: **raushan.kumar.19u@gmail.com**
 - ⚡ Fun fact: I've solved **169+ problems on LeetCode** and earned multiple coding badges!
 
 ## 🛠️ Tech Stack
@@ -43,12 +44,12 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raushan-kumar7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-kumar7&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraushankr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraushankr&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushan-kumar7&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraushankr&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🎓 Education
@@ -69,15 +70,16 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisraushankumar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raushan-kumar7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan911721@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imraushankr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan.kumar.19u@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raushan-kumar.onrender.com/)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushan-kumar7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=imraushankr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
