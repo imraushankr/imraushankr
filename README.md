@@ -40,34 +40,6 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🤖 InPic AI
-**AI-Powered Image Generation Platform**
-- Built a web platform that generates images from text prompts using ClipDrop API
-- Implemented user authentication and credit-based system
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- 🔗 [View Project](#)
-
-### ✈️ ExploreEase
-**Comprehensive Travel Booking Platform**
-- Streamlined travel booking process with personalized experiences
-- Achieved high user satisfaction and improved conversion rates
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase
-- 🔗 [View Project](#)
-
-## 🏆 Achievements & Certifications
-
-### 🎖️ Coding Achievements
-- **169+ LeetCode Problems** solved with 50 & 100-Days Badge
-- **260+ GeeksforGeeks** coding challenges completed
-- **5-star rating** in Python & C++ on HackerRank
-- **3-star rating** in algorithmic challenges on HackerRank
-
-### 📜 Certifications
-- **Advanced React** - Meta (April 2024)
-- **Server-side JavaScript with Node.js** - NIIT (April 2024)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,12 +56,11 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 **Bachelor of Technology - Computer Science and Engineering**  
 *Lovely Professional University, Punjab* | CGPA: 7.35 | 2021 - Present
 
-## 💼 Experience
+**Intermediate (12th Grade)**  
+*Laxmi Narayan Dubey College, Motihari, Bihar* | Percentage: 84.4% | 2019 - 2021
 
-**Associate Developer (Intern)** | *Tech Mahindra* | March 2025 - Present
-- Collaborated on responsive website development for Haleon
-- Ensured cross-browser compatibility and seamless user experience
-- Focused on clean code practices and UI consistency
+**Matriculation (10th Grade)**  
+*T R M P High School, Ghorasahan, Bihar* | Percentage: 82.2% | 2018 - 2019
 
 ## 🤝 Let's Connect!
 
