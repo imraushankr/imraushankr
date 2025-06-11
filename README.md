@@ -4,6 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imraushankr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan.kumar.19u@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raushan-kumar.onrender.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/imraushankr/)
 
 ## 🚀 About Me
 
@@ -41,6 +42,28 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+## 🏆 LeetCode Stats
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/imraushankr?theme=dark)](https://leetcode.com/u/imraushankr/)
+
+</div>
+
+### 📊 LeetCode Activity
+<div align="center">
+  
+![LeetCode Activity](https://leetcard.jacoblin.cool/imraushankr?ext=activity&theme=dark)
+
+</div>
+
+### 🔥 LeetCode Heatmap
+<div align="center">
+  
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/imraushankr?ext=heatmap&theme=dark)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,6 +96,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imraushankr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan.kumar.19u@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raushan-kumar.onrender.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/imraushankr/)
 
 </div>
 
