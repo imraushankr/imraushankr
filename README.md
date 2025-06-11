@@ -132,13 +132,14 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
   <img src="https://img.shields.io/badge/Full%20Stack-MERN%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB" alt="Full Stack Achievement" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(97, 218, 251, 0.3);"/>
 </div>
 -->
-
+<!--
 ## 🏅 Achievements & Certifications
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <img src="https://img.shields.io/badge/LeetCode-169%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode Achievement" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(255, 161, 22, 0.3);"/>
   <img src="https://img.shields.io/badge/GitHub-Open%20Source%20Contributor-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub Achievement" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(24, 23, 23, 0.3);"/>
   <img src="https://img.shields.io/badge/Full%20Stack-MERN%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB" alt="Full Stack Achievement" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(97, 218, 251, 0.3);"/>
 </div>
+-->
 
 <!-- To update your LeetCode count:
 1. Visit your profile: https://leetcode.com/u/imraushankr
