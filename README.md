@@ -1,7 +1,7 @@
 # Hi there, I'm Raushan Kumar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 - 👯 I'm looking to collaborate on **open source projects** and **innovative web applications**
 - 💬 Ask me about **React.js, Node.js, MongoDB, and full-stack development**
 - 📫 How to reach me: **raushan.kumar.19u@gmail.com**
-- ⚡ Fun fact: I've solved **169+ problems on LeetCode** and earned multiple coding badges!
+- ⚡ Fun fact: " जैसी सोच रखोगे, वैसी स्थिति आ जायेगी। जैसी स्थिति चाहते हो, वैसी सोच रखो।"
 
 ## 🛠️ Tech Stack
 
@@ -90,9 +90,9 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 
 <h3 align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7, #DDA0DD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔥 LeetCode Heatmap</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; margin: 20px 0;">
-  <img src="https://leetcard.jacoblin.cool/imraushankr?ext=activity&theme=nord&border=0&radius=10" alt="LeetCode Activity" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);" />
-  <img src="https://leetcard.jacoblin.cool/imraushankr?ext=heatmap&theme=nord&border=0&radius=10" alt="LeetCode Heatmap" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; margin: 20px 0; min-height: 250px; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/imraushankr?ext=activity&theme=nord&border=0&radius=10" alt="LeetCode Activity" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); height: 200px;" />
+  <img src="https://leetcard.jacoblin.cool/imraushankr?ext=heatmap&theme=nord&border=0&radius=10" alt="LeetCode Heatmap" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); height: 200px;" />
 </div>
 
 ## 📊 GitHub Stats
