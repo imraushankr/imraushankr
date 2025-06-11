@@ -9,8 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/thisraushankumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/imraushankr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:raushan.kumar.19u@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35)](https://raushan-kumar.onrender.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/imraushankr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35)](https://raushan-kumar.onrender.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/imraushankr)
 
 </div>
 
@@ -84,7 +84,7 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 30px 0; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);">
   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/imraushankr?theme=nord&font=Noto%20Sans&border=0&radius=15)](https://leetcode.com/u/imraushankr/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/imraushankr?theme=nord&font=Noto%20Sans&border=0&radius=15)](https://leetcode.com/u/imraushankr)
 
 </div>
 
@@ -144,8 +144,8 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/thisraushankumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/imraushankr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:raushan.kumar.19u@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35)](https://raushan-kumar.onrender.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/imraushankr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35)](https://raushan-kumar.onrender.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/imraushankr)
 
 </div>
 
