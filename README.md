@@ -47,12 +47,13 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 <div align="center">
   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/imraushankr?theme=dark)](https://leetcode.com/u/imraushankr/)
-![LeetCode Activity](https://leetcard.jacoblin.cool/imraushankr?ext=activity&theme=dark)
 
 </div>
 
 ### 🔥 LeetCode Heatmap
 <div align="center">
+
+![LeetCode Activity](https://leetcard.jacoblin.cool/imraushankr?ext=activity&theme=dark)
   
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/imraushankr?ext=heatmap&theme=dark)
 
